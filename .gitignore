@@ -3,3 +3,4 @@
 *.pyc
 introduction-to-python/*.txt
 introduction-to-python/*.json
+*.h5
