@@ -4,3 +4,5 @@
 introduction-to-python/*.txt
 introduction-to-python/*.json
 *.h5
+*.pkl
+.DS_Store
