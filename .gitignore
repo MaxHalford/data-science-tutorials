@@ -6,3 +6,5 @@ introduction-to-python/*.json
 *.h5
 *.pkl
 .DS_Store
+*.txt
+*.json*
