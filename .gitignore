@@ -8,3 +8,4 @@ introduction-to-python/*.json
 .DS_Store
 *.txt
 *.json*
+*.db
