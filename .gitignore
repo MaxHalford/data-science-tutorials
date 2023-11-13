@@ -10,3 +10,5 @@ introduction-to-python/*.json
 *.txt
 *.json*
 *.db
+*.wal
+.env
